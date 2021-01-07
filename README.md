@@ -2,9 +2,9 @@
 
 Generate forms based on Json file
 
-<image src="image6.png" width="337" height="600"/>
+<image src="image6.png" width="337" height="600"/> <image src="image8.png" width="337" height="600"/>
 
-<image src="image8.png" width="337" height="600"/>
+
 
 <image src="image9.png" width="337" height="600"/>
 
